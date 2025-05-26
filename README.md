@@ -50,4 +50,10 @@ The entire API is easily testable using Postman. You can register a new user, lo
 
 
 
+##OUTPUT
+
+![Image](https://github.com/user-attachments/assets/2bf76b61-beac-48d0-85f6-258bea0bf20e)
+
+
+
 
