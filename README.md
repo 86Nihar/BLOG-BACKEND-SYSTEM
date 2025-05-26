@@ -49,7 +49,9 @@ Testing with Postman
 The entire API is easily testable using Postman. You can register a new user, log in to get your token, and then use that token to test blog and comment features. It’s straightforward to set up, and it helps confirm that everything is working the way it should.
 
 
-## OUTPUT
+## OUTPUT AUTHORIZATION
+
+![Image](https://github.com/user-attachments/assets/c08433fb-a31a-4b8f-bbca-490758908738)
 
 
 
