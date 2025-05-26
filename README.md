@@ -48,7 +48,14 @@ All the key routes—like posting a blog or leaving a comment—are protected, s
 Testing with Postman
 The entire API is easily testable using Postman. You can register a new user, log in to get your token, and then use that token to test blog and comment features. It’s straightforward to set up, and it helps confirm that everything is working the way it should.
 
-##OUTPUT 
+
+## OUTPUT
+
+
+
+
+
+##OUTPUT READ BLOG
 
 
 ![Image](https://github.com/user-attachments/assets/d32c3395-2184-42f8-84e7-1dd6cbd24006)
