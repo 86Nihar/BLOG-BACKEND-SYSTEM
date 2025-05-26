@@ -55,6 +55,13 @@ The entire API is easily testable using Postman. You can register a new user, lo
 
 
 
+##OUTPUT CREATE BLOGS
+
+![image](https://github.com/user-attachments/assets/4e2b9c5b-f50c-4352-9fe1-0a2a4b6335f8)
+
+
+
+
 
 
 ##OUTPUT READ BLOG
